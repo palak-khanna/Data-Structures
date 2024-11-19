@@ -27,7 +27,7 @@ This repository contains solutions to medium-level data structure problems. Each
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/ds-medium-questions.git
+   git clone https://github.com/palak-khanna/Data-Structures.git
    cd ds-medium-questions
 
 2. **Run Java Code**:
