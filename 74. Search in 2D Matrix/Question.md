@@ -20,6 +20,7 @@ Output: true
 ## Example 2:
 
 <img width="261" alt="image" src="https://github.com/user-attachments/assets/8bd323d6-89d5-4615-a29e-100dbba2faef">
+
 Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
 Output: false
  
