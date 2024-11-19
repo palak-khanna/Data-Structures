@@ -5,7 +5,13 @@ This repository contains solutions to medium-level data structure problems. Each
 - **Video Explanation**: A walkthrough of the approach, problem-solving techniques, and code logic.
 
 ## 📂 Directory Structure
-├── Problem_Name_1/ │ ├── Problem_Statement.md │ ├── Solution.java │ ├── Explanation.mp4 │ ├── Problem_Name_2/ │ ├── Problem_Statement.md │ ├── Solution.java │ ├── Explanation.mp4 │ └── README.md
+- Problem name
+     1. Question
+     2. Solution
+           - Editor sol
+           - Video sol
+           - Approach.md format file
+           - pdf note for the sol
 
 
 ## 📚 Topics Covered
